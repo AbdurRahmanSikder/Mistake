@@ -1,0 +1,1 @@
+getline(cin>>sw,string)//then no need to use cin.ignore()
